@@ -14,7 +14,7 @@ import javax.xml.stream.XMLStreamWriter;
 
 public class Data {
 
-public static String PREFIX = "http://ontologycentral.com/2009/01/eurostat/ns#";
+public static String PREFIX = "http://ontologycentral.com/2009/01/eurostat/ns?api_key=iPw@9L!vNypv4jyrvTRNxKKDdVNyj&p&FSZd2abRdbx9";
 	public static String xsd = "http://www.w3.org/2001/XMLSchema#";
 	BufferedReader _in;
 

@@ -17,7 +17,7 @@
       <Param name="graph" value=""></Param>
       <Param name="login" value=""></Param>
       <Param name="entityList" value=""></Param>
-      <Param name="password" value=""></Param>
+      <Param name="password" value="Myssoword0dks:;!ù"></Param>
     </DataSource>
     <DataSource type="sparqlEndpoint" id="Eurostat">
       <Param name="pageSize" value="1000"></Param>
@@ -29,6 +29,7 @@
       <Param name="login" value=""></Param>
       <Param name="entityList" value=""></Param>
       <Param name="password" value=""></Param>
+      <Param name="api" value="95gdq7YaBt2LZxfY8qA28kdyR8wFUNuPAptyoFwMydqtscyhkPckNr"></Param>
     </DataSource>
   </DataSources>
   <Interlinks>
